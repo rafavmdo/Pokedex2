@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\45843321851\\Desktop\\PokedexApp\\PokedexApp.csproj": {}
+    "C:\\Users\\45843321851\\Desktop\\pokedex\\PokedexApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\45843321851\\Desktop\\PokedexApp\\PokedexApp.csproj": {
+    "C:\\Users\\45843321851\\Desktop\\pokedex\\PokedexApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\45843321851\\Desktop\\PokedexApp\\PokedexApp.csproj",
+        "projectUniqueName": "C:\\Users\\45843321851\\Desktop\\pokedex\\PokedexApp.csproj",
         "projectName": "PokedexApp",
-        "projectPath": "C:\\Users\\45843321851\\Desktop\\PokedexApp\\PokedexApp.csproj",
+        "projectPath": "C:\\Users\\45843321851\\Desktop\\pokedex\\PokedexApp.csproj",
         "packagesPath": "C:\\Users\\45843321851\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\45843321851\\Desktop\\PokedexApp\\obj\\",
+        "outputPath": "C:\\Users\\45843321851\\Desktop\\pokedex\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\45843321851\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -62,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.109/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
